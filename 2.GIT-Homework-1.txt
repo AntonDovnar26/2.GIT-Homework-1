@@ -306,3 +306,4 @@ git add bug_report.txt.
 git commit -m "commit"
 
  18. Синхронизировать внешний и локальный репозиторий TXT| git push
+  
